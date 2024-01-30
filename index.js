@@ -48,7 +48,7 @@ const createOrder = async (customer, data) => {
   }
 };
 
-const endpointSecret = "";
+const endpointSecret = "whsec_98QE2Xr8csKRtNRcuFP6OnTt1hoXc9ul";
 
 
 
